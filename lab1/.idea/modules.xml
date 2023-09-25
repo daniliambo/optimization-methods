@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../.idea/Desktop.iml" filepath="$PROJECT_DIR$/../../../.idea/Desktop.iml" />
+      <module fileurl="file://$APPLICATION_CONFIG_DIR$/projects/RL/dsProject1/.idea/dsProject1.iml" filepath="$APPLICATION_CONFIG_DIR$/projects/RL/dsProject1/.idea/dsProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab1.iml" filepath="$PROJECT_DIR$/.idea/lab1.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/RL/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/RL/.idea/pythonProject.iml" />
+    </modules>
+  </component>
+</project>
